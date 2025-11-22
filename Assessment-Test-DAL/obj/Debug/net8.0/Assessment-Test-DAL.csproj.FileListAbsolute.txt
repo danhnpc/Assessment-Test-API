@@ -1,0 +1,28 @@
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.csproj.AssemblyReference.cache
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.AssemblyInfoInputs.cache
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.AssemblyInfo.cs
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.csproj.CoreCompileInputs.cache
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.deps.json
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.runtimeconfig.json
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.dll
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.pdb
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.dll
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\refint\Assessment-Test-DAL.dll
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.pdb
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.genruntimeconfig.cache
+D:\Desktop App\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\ref\Assessment-Test-DAL.dll
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.deps.json
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.runtimeconfig.json
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.dll
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\bin\Debug\net8.0\Assessment-Test-DAL.pdb
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.csproj.AssemblyReference.cache
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.AssemblyInfoInputs.cache
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.AssemblyInfo.cs
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.csproj.CoreCompileInputs.cache
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.dll
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\refint\Assessment-Test-DAL.dll
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.pdb
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\Assessment-Test-DAL.genruntimeconfig.cache
+D:\DesktopApp\Assessment-Test-API\Assessment-Test-DAL\obj\Debug\net8.0\ref\Assessment-Test-DAL.dll

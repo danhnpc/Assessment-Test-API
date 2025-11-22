@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DesktopApp\\Assessment-Test-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\iservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\iservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\postmodel\\createcustomerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\postmodel\\createcustomerpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\iservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\iservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\postmodel\\createorderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\postmodel\\createorderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\postmodel\\createorderitempostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\postmodel\\createorderitempostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\utils\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\utils\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\migrations\\addproductandorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\migrations\\addproductandorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\migrations\\addordersandorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\migrations\\addordersandorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\postmodel\\updateproductpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\postmodel\\updateproductpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\migrations\\addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\migrations\\addproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\postmodel\\createproductpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\postmodel\\createproductpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\model\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\utils\\businessdependencyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\utils\\businessdependencyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-dal\\utils\\datadependencyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC96805-5569-4A32-9A48-49A7E56D0A16}|Assessment-Test-DAL\\Assessment-Test-DAL.csproj|solutionrelative:assessment-test-dal\\utils\\datadependencyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD68ACE-866D-4113-A781-EAD91A5CB1B2}|Assessment-Test-API\\Assessment-Test-API.csproj|solutionrelative:assessment-test-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|d:\\desktopapp\\assessment-test-api\\assessment-test-bll\\security\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5300CF7-E6B0-451D-8416-C529EDEACBA0}|Assessment-Test-BLL\\Assessment-Test-BLL.csproj|solutionrelative:assessment-test-bll\\security\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Assessment-Test-API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:11:16.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Assessment-Test-API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:10:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\Service\\OrderService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\OrderService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\Service\\OrderService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:09:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\Service\\CustomerService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\CustomerService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\Service\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:08:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerPostModel.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateCustomerPostModel.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\PostModel\\CreateCustomerPostModel.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateCustomerPostModel.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\PostModel\\CreateCustomerPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:05:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderPostModel.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateOrderPostModel.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\PostModel\\CreateOrderPostModel.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateOrderPostModel.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\PostModel\\CreateOrderPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:05:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderItemPostModel.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateOrderItemPostModel.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\PostModel\\CreateOrderItemPostModel.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateOrderItemPostModel.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\PostModel\\CreateOrderItemPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:05:03.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\IService\\ICustomerService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\ICustomerService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\IService\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:04:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\IService\\IOrderService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\IOrderService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\IService\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:04:08.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddOrdersAndOrderItems.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddOrdersAndOrderItems.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Migrations\\AddOrdersAndOrderItems.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddOrdersAndOrderItems.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Migrations\\AddOrdersAndOrderItems.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:19:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\Entities\\Order.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Order.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:17:40.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddProductImage.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddProductImage.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Migrations\\AddProductImage.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddProductImage.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Migrations\\AddProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:58:00.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateProductPostModel.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\UpdateProductPostModel.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\PostModel\\UpdateProductPostModel.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\UpdateProductPostModel.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\PostModel\\UpdateProductPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:55:28.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProductPostModel.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateProductPostModel.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\PostModel\\CreateProductPostModel.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\PostModel\\CreateProductPostModel.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\PostModel\\CreateProductPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:55:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Assessment-Test-API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:44:18.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\Service\\ProductService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Service\\ProductService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\Service\\ProductService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:39:48.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\IService\\IProductService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\IService\\IProductService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:39:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:37:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\Entities\\Product.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Product.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:37:09.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddProductAndOrderItem.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddProductAndOrderItem.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Migrations\\AddProductAndOrderItem.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Migrations\\AddProductAndOrderItem.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Migrations\\AddProductAndOrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T10:36:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Assessment-Test-API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T05:38:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Security\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\Security\\IJwtService.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Security\\IJwtService.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\Security\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T05:32:43.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Program.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\Program.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\Program.cs",
+              "RelativeToolTip": "Assessment-Test-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:26:17.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Assessment-Test-API\\appsettings.Development.json",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-API\\appsettings.Development.json",
+              "RelativeToolTip": "Assessment-Test-API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T04:23:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Utils\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Utils\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Utils\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Utils\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:22:45.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\Entities\\Customer.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\Customer.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:20:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Model\\Entities\\User.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Model\\Entities\\User.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Model\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:20:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataDependencyHelper.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Utils\\DataDependencyHelper.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-DAL\\Utils\\DataDependencyHelper.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-DAL\\Utils\\DataDependencyHelper.cs",
+              "RelativeToolTip": "Assessment-Test-DAL\\Utils\\DataDependencyHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:10:07.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusinessDependencyHelper.cs",
+              "DocumentMoniker": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Utils\\BusinessDependencyHelper.cs",
+              "RelativeDocumentMoniker": "Assessment-Test-BLL\\Utils\\BusinessDependencyHelper.cs",
+              "ToolTip": "D:\\DesktopApp\\Assessment-Test-API\\Assessment-Test-BLL\\Utils\\BusinessDependencyHelper.cs",
+              "RelativeToolTip": "Assessment-Test-BLL\\Utils\\BusinessDependencyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:09:35.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
